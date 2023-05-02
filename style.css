@@ -1,12 +1,14 @@
 body {
     margin: 0;
-    background-color: #fff288;
+    background-color: #fff;
 }
 
 .container {
+    border: 1px solid black;
     width: 95%;
     height: 100vh;
     display: flex;
+    text-align: center;
 }
 
 .quotes {
